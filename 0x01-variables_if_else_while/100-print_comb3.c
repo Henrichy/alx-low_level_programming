@@ -35,8 +35,6 @@ int main(void)
 
 				continue;
 
-			
-
 			putchar(',');
 
 			putchar(' ');
@@ -50,7 +48,5 @@ int main(void)
 	putchar('\n');
 
 
-
 	return (0);
-
 }
