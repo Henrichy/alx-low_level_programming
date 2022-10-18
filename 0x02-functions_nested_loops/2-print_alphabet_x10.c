@@ -3,7 +3,6 @@
 
 
 /**
- *main - Check the code.
  *print_alphabet_x10 - print 10 times the alphabets in lowercase.
  */
 
