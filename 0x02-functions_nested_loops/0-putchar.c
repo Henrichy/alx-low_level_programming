@@ -3,7 +3,7 @@
 
 
 /**
- * main - Prints "Holberton" followed by a new line.
+ * main - Prints "_putchar" followed by a new line.
  *
  * Return: Always 0.
  */
@@ -12,23 +12,23 @@ int main(void)
 
 {
 
-	_putchar('_');
+	putchar('_');
 
-	_putchar('p');
+	putchar('p');
 
-	_putchar('u');
+	putchar('u');
 
-	_putchar('t');
+	putchar('t');
 
-	_putchar('c');
+	putchar('c');
 
-	_putchar('h');
+	putchar('h');
 
-	_putchar('a');
+	putchar('a');
 
-	_putchar('r');
+	putchar('r');
 
-	_putchar('\n');
+	putchar('\n');
 
 
 
