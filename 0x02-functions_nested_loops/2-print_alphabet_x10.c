@@ -17,7 +17,7 @@ void print_alphabet_x10(void)
 
 
 
-	for (count; count < 10; count++)
+	while (count++ < 10)
 
 	{
 
